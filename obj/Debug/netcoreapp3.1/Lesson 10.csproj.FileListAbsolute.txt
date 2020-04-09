@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\Lesson 10\bin\Debug\netcoreapp3.1\Lesson 10.exe
+C:\Users\ASUS\Desktop\Lesson 10\bin\Debug\netcoreapp3.1\Lesson 10.deps.json
+C:\Users\ASUS\Desktop\Lesson 10\bin\Debug\netcoreapp3.1\Lesson 10.runtimeconfig.json
+C:\Users\ASUS\Desktop\Lesson 10\bin\Debug\netcoreapp3.1\Lesson 10.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Lesson 10\bin\Debug\netcoreapp3.1\Lesson 10.dll
+C:\Users\ASUS\Desktop\Lesson 10\bin\Debug\netcoreapp3.1\Lesson 10.pdb
+C:\Users\ASUS\Desktop\Lesson 10\obj\Debug\netcoreapp3.1\Lesson 10.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Lesson 10\obj\Debug\netcoreapp3.1\Lesson 10.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Lesson 10\obj\Debug\netcoreapp3.1\Lesson 10.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Lesson 10\obj\Debug\netcoreapp3.1\Lesson 10.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Lesson 10\obj\Debug\netcoreapp3.1\Lesson 10.dll
+C:\Users\ASUS\Desktop\Lesson 10\obj\Debug\netcoreapp3.1\Lesson 10.pdb
+C:\Users\ASUS\Desktop\Lesson 10\obj\Debug\netcoreapp3.1\Lesson 10.genruntimeconfig.cache
